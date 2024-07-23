@@ -6,7 +6,7 @@
 
 - 💞️ I'm open to collaborate on web and mobile development projects, especially those involving React.js, Node.js, and React Native.
 
-- 📫 You can reach me at [parveenkumar94123@gmail.com] or connect with me on Instagram [@parveenkumar.in].
+- 📫 You can reach me at [parveenkumar94123@gmail.com] or connect with me on Instagram [@parveenkumar.info].
 
 Feel free to customize this further to your liking.
 

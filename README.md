@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Parveen Kumar, a software engineer and the CEO at APJ Development Company.
+- 👋 Hi, I’m Parveen Kumar, a software engineer and the ex CEO And Co-Founder at APJ Development Company.
 
 - 👀 I'm interested in web and mobile development, specializing in React.js, Node.js, Next.js, TypeScript, and React Native.
 
